@@ -1,15 +1,15 @@
 ---
 title: "Sinem Celenk"
 subtitle: ""
-description: "Hi I am Sinem. I have experience in marketing. Enjoys doing market research and finding new market opportunities. Interested in data analysis, and crisis management. Expert in customer relationship management. Has an eye for good design. Stress resilient, good listener, and has excellent observation skills.
+description: "Enjoys doing market research and finding new market opportunities. Interested in data analysis, and crisis management. Expert in customer relationship management. Has an eye for good design. Stress resilient, good listener, and has excellent observation skills.
 
-Currently into UX Design and Research, and Data analysis.."
+Currently into UX Design and Research, and Data analysis."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/unicorn-megaphone.png
+  - img/sinem.png
 show_action_link: true
-action_link: /about
-action_label: "My Work &rarr;"
+action_link: /contact
+action_label: "Contact &rarr;"
 action_type: text # text, button
 type: home
 ---

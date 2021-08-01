@@ -44,17 +44,18 @@ preserveTaxonomyNames = true
   borderColor = "moon-gray"
   # show/hide social icons in site header/footer
   socialInHeader = false
-  socialInFooter = false
+  socialInFooter = true
 
 [social]
   # social accounts (username only)
-  facebook = "formspree"
+  facebook = "sinem.celenk.10"
   facebook_admin = "" # Facebook Page Admin ID for Domain Insights
-  instagram = ""
+  instagram = "sinemcelenk"
   youtube = ""
-  twitter = "formspree"
-  github = "formspree"
+  twitter = ""
+  github = ""
   medium = ""
+  linkedin = "sinemcelenk"
 
 [taxonomies]
   category = "categories"
