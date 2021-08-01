@@ -81,6 +81,7 @@
 .underline-hover:hover,
 .underline-hover:focus {
   text-decoration: underline;
+  text-decoration-thickness: 3px;
 }
 
 /* Can combine this with overflow-hidden to make background images grow on hover

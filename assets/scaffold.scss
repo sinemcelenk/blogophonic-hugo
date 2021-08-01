@@ -191,7 +191,7 @@ form {
     @extend .input-reset, .ph4, .pv3, .mb3, .f6, .ttu, .tracked, .b, .bw1, .br0, .b--transparent, .link, .pointer, .bg-animate, .#{$buttonTextColor}, .hover-#{$buttonHoverTextColor}, .bg-#{$buttonBgColor}, .hover-bg-#{$buttonHoverBgColor} ;
   }
   .action.text {
-    @extend .db, .mb4, .ttu, .tracked, .b, .link ;
+    @extend .db, .mb4, .ttu, .tracked, .b, .link, .no-underline, .underline-hover;
   }
 }
 
