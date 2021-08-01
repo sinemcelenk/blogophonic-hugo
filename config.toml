@@ -50,7 +50,7 @@ preserveTaxonomyNames = true
   # social accounts (username only)
   facebook = "sinem.celenk.10"
   facebook_admin = "" # Facebook Page Admin ID for Domain Insights
-  instagram = "sinemcelenk"
+  instagram = ""
   youtube = ""
   twitter = ""
   github = ""
