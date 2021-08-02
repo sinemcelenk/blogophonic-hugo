@@ -40,6 +40,25 @@
 
 /*
 
+  Shine element on hover by adding the shine class.
+
+*/
+
+.shine {
+  opacity: .5;
+  transition: opacity .15s ease-in;
+}
+.shine:hover,
+.shine:focus {
+  opacity: 1;
+  transition: opacity .15s ease-in;
+}
+.shine:active {
+  opacity: .8; transition: opacity .15s ease-out;
+}
+
+/*
+
   Animate opacity to 100% on hover by adding the glow class.
 
 */
