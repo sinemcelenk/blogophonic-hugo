@@ -6,7 +6,7 @@ description: "Enjoys doing market research and finding new market opportunities.
 Currently into UX Design and Research, and Data analysis."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/sinem.png
+  - img/sinem3.png
 show_action_link: true
 action_link: /contact
 action_label: "Contact"
