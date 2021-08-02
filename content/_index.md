@@ -1,9 +1,7 @@
 ---
 title: "Sinem Celenk"
 subtitle: "Marketing Professional"
-description: "Enjoys doing market research and finding new market opportunities. Interested in data analysis, and crisis management. Expert in customer relationship management. Has an eye for good design. Stress resilient, good listener, and has excellent observation skills.
-
-Currently into UX Design and Research, and Data analysis."
+description: "Hi, I am Sinem. Welcome to my space on the internet! I am a creative marketer with over 5 years of experience in the industry. I've been doing market research, generating marketing strategies, managing campaigns both online and offline, creating launch events, and reporting. I am enthusiastic about working with new brands. Feel free to contact me for any inquires."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/sinem3.png
