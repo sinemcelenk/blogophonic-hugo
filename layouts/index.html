@@ -9,7 +9,8 @@
 
        <div class="flex">
         {{ if .Params.cv }}<a class="action text mr4" href="{{ .Params.cv }}">cv</a>{{ end }}
-        {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
+        {{ if .Params.portfolio }}<a class="action text mr4" href="{{ .Params.portfolio }}">portfolio</a>{{ end }}
+        {{ if .Params.show_action_link }}<a class="action mr4 {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
        </div>
       </div>
       <div class="tr w-50-l">
