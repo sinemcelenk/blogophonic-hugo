@@ -12,7 +12,7 @@ action_link: /contact
 action_label: "Contact"
 action_type: text # text, button
 type: home
-cv: img/cv.pdf
+cv: img/cv2.pdf
 portfolio: img/portfolio.mp4
 ---
 
