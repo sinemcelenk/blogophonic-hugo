@@ -10,7 +10,7 @@ action_link: /contact
 action_label: "Contact"
 action_type: text # text, button
 type: home
-resume: img/cv.pdf
+resume: img/resume.pdf
 portfolio: img/portfolio.mp4
 ---
 
