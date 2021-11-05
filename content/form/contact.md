@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "If you are looking for a creative marketing professional please contact me."
+description: "For any inquiries please contact me."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
