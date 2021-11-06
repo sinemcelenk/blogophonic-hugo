@@ -1,4 +1,4 @@
-# _Blogophonic_ - a blog theme for Hugo by [Formspree](https://formspree.io)
+# My Personal Website
 
 A modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
 
@@ -16,7 +16,7 @@ A modern, beautiful, and easily configurable blog for Hugo that includes a dedic
 
 ## Usage
 
-> NOTE: blogophonic-hugo requires the `extended` version of hugo, since it relies on hugo's built-in SASS processor. As of Jan 11, 2021 `hugo-extended` is installed by default when running `brew install` however, for windows or linux users, you must ensure you've installed the extended version. Please see https://gohugo.io/getting-started/installing/. 
+> NOTE: blogophonic-hugo requires the `extended` version of hugo, since it relies on hugo's built-in SASS processor. As of Jan 11, 2021 `hugo-extended` is installed by default when running `brew install` however, for windows or linux users, you must ensure you've installed the extended version. Please see https://gohugo.io/getting-started/installing/.
 
 This as a full website, not a hugo theme. To use it, just clone the repo, and start hugo at the root:
 
@@ -209,5 +209,5 @@ $borderColorCustom: #c4beb9;
 
 Additionally the following assets have separate licenses:
 
-- **Blogophonic Logo:** "Blog" (in black) by [Alex Berkowitz](https://thenounproject.com/term/blog/19895) from the Noun Project. Licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode). 
+- **Blogophonic Logo:** "Blog" (in black) by [Alex Berkowitz](https://thenounproject.com/term/blog/19895) from the Noun Project. Licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode).
 - **Social Icons:** Free SVG icons for popular brands by [Simple Icons](https://simpleicons.org). Licensed under [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md).
