@@ -77,6 +77,10 @@ h1, h2, h3, h4, h5, h6 {
     @extend .f6, .ph1, .bg-white-50 ;
   }
 
+  > p > img {
+    @extend .pt3, .pb3;
+  }
+
   blockquote {
     @extend .ml0, .pl3, .bl, .bw2, .measure-wide, .b--#{$borderColor} ;
 
