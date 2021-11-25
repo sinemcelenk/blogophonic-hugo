@@ -10,6 +10,7 @@
        <div class="flex">
         {{ if .Params.resume }}<a class="action text mr4" href="{{ .Params.resume }}" target="_blank">resume</a>{{ end }}
         {{ if .Params.portfolio }}<a class="action text mr4" href="{{ .Params.portfolio }}" target="_blank">portfolio</a>{{ end }}
+        {{ if .Params.blog}}<a class="action text mr4" href="{{ .Params.blog }}" target="_blank">blog</a>{{ end }}
         {{ if .Params.show_action_link }}<a class="action mr4 {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
        </div>
       </div>

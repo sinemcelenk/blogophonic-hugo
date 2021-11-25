@@ -9,6 +9,7 @@ show_action_link: true
 action_link: /contact
 action_label: "Contact"
 action_type: text # text, button
+blog: /blog
 type: home
 resume: img/resume.pdf
 portfolio: img/portfolio.mp4
