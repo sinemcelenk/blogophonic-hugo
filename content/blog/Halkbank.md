@@ -1,7 +1,7 @@
 ---
 title: "Halkbank (Halk Bank)"
 subtitle: "TVC, Radio, Print Advertising"
-excerpt: "In 2018, Halkbank which is a well-known Turkish Bank, was celebrating It's 80th years. As the advertising of the brand, we created a campaign that include TVC, Radio and print media."
+excerpt: 
 date: 2021-11-03
 author: "Sinem Celenk"
 draft: false
@@ -17,17 +17,16 @@ categories:
 layout: single
 ---
 
-In 2018, Halkbank which is a well-known Turkish Bank, was celebrating It's 80th years. As the advertising of the brand, we created a campaign that include TVC, Radio and print media.
+Halkbank is a well-known Turkish Bank. The company wanted to create an advertising campaign to celebrate It's 80th years all around country at the same time. We modified the logo and created TV, Radio and print ads.
 
 ---
 
-### Strategy
+### The Idea
 
-HalkBank  was celebreting its 80th years in the banking industry. Halkbank brand team wanted to create a big volume at the same time in Turkey's all of 81 cities. Our main goal is to celebrate with Halkbank's clients. The strategy was built to support brand image. 
+HalkBank  was celebreting its 80th years in the banking industry. The brand team wanted to create a big volume at the same time in Turkey's all of 81 cities. Our main goal was to build a campaign that speaks to emotions and shows Halbank's 80 years of relationship with its clients. The strategy was built to support brand image. 
 
-Duties
-Project Management
-Client Relationships
+*— [Click here to watch the TVC](https://youtu.be/0zP8lFqNvtY)*
 
-![kotex case study](/blog/assets/kotex_launch.jpg)
+![halkbank 80](/blog/assets/halkbank_80.jpg)
 
+Duties: Project Management, Client Relationships

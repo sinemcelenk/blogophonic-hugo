@@ -1,7 +1,7 @@
 ---
 title: "Garnier - Corporate Social Responsibility Campaign"
 subtitle: "Research & Campaign Strategy, Launch Event, Press & Influencer Kits"
-excerpt: "Garnier aimed to create awareness about skin cancer. We were tasked to generate and execute a corporate social responsibility campaign that reaches the right target group and creates awareness about the issue."
+excerpt:
 date: 2021-11-06
 author: "Sinem Celenk"
 draft: false
@@ -15,11 +15,13 @@ categories:
   - Case Studies
 layout: single
 ---
-Garnier aimed to create awareness about skin cancer. We were tasked to generate and execute a corporate social responsibility campaign that reaches the right target group and creates awareness about the issue.
+Garnier is a cosmetics brand of French cosmetic company L'oreal Paris. The company has four product categories: hair color, haircare, skincare and suncare. They reach us to idea of creating awareness about skin cancer, which is a rising health problem all around the world. We decided to generate and execute a corporate social responsibility campaign that reaches the right target group and raises awareness about UV Radiation and sun exposure.
 
 ---
+![garnier played](/blog/assets/garnier_played.JPG)
 
-### Strategy & Audience
+
+### The Idea 
 
 We knew the fact that a person receives more than half of the ultraviolet (UV) in their childhood. (Source: United States Environmental Protection Agency)
 
@@ -31,25 +33,25 @@ Cooperation was made with the Ministry of Education and the theater play was per
 
 A special bag was prepared to be given to all the kids at the end of the play. The bag included an educational brochure and Garnier Ambre Solaire sunscreen.
 
+
+![garnier students](/blog/assets/garnier_students.JPG)
+
 A launch party was organized with a special concept.
 
 Celebrities, influencer moms, and the press invited the party with their kids.
 
-Press and influencer kit was prepared that includes the product.
-
-Reached over 20,000 elementary school students in 6 months.
-
-Total Media Coverage: 581,816 TL
-
-
-Duties:
-Strategy Generation
-Implementation
-Influencer Management
-Event Organization 
-Post-event report preperation
+Concept press and influencer kit was prepared.
 
 
 ![garnier case study](/blog/assets/garnier_case_study.jpg)
 
+### Results 
+
+Reached over 26,000 elementary school students in 6 months.
+
+Total Media Coverage: 581,816 TL
+
+
 ![garnier press](/blog/assets/garnier_press.png)
+
+Duties: Idea execution, Influencer Management, Event Management, Team Coordination, Reporting
