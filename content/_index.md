@@ -12,7 +12,7 @@ action_type: text # text, button
 blog: /blog
 type: home
 resume: img/resume.pdf
-portfolio: img/portfolio.mp4
+portfolio: /blog
 ---
 
 ** index doesn't contain a body, just front matter above.
