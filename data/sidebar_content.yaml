@@ -14,4 +14,3 @@ blog: # must match the slug of your blog
     author: 
     text_link_label: Subscribe via RSS
     text_link_url: /index.xml
-    show_sidebar_adunit: false # show ad container
