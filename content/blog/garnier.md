@@ -15,7 +15,7 @@ categories:
   - Case Studies
 layout: single
 ---
-Garnier is a cosmetics brand of French cosmetic company L'oreal Paris. The company has four product categories: hair color, haircare, skincare and suncare. They reach us to idea of creating awareness about skin cancer, which is a rising health problem all around the world. We decided to generate and execute a corporate social responsibility campaign that reaches the right target group and raises awareness about UV Radiation and sun exposure.
+Garnier is a cosmetics brand of French cosmetic company L’oreal Paris. The company has four product categories: hair color, haircare, skincare, and suncare. They came with the idea of creating awareness about skin cancer, which is a rising health problem all around the world. We decided to generate and execute a corporate social responsibility campaign that reaches the right target group and raises awareness about UV Radiation and sun exposure.
 
 ---
 ![garnier played](/blog/assets/garnier_played.JPG)
@@ -23,31 +23,32 @@ Garnier is a cosmetics brand of French cosmetic company L'oreal Paris. The compa
 
 ### The Idea 
 
-We knew the fact that a person receives more than half of the ultraviolet (UV) in their childhood. (Source: United States Environmental Protection Agency)
+We know that a person receives more than half of the ultraviolet (UV) in their childhood. (Source: The United States Environmental Protection Agency)
 
-We create a strategy that plans to reach thousands of elementary and secondary students in Istanbul and educate them about sun safety. 
+We create a strategy to reach thousands of elementary and secondary students in Istanbul and educate them about sun safety.
 
-An educational play was prepared with a language and content that our target age group can easily understand the concept, and have fun while learning about how to avoid UV Radiation and sun exposure.
+An educational play was prepared with a language and content that our target age group could easily understand the concept and have fun while learning how to avoid UV Radiation and sun exposure.
 
-Cooperation was made with the Ministry of Education and the theater play was performed in schools across Istanbul. 
+Cooperation was made with the Ministry of Education, and the theater play was performed in schools across Istanbul.
 
-A special bag was prepared to be given to all the kids at the end of the play. The bag included an educational brochure and Garnier Ambre Solaire sunscreen.
+A special kit was prepared to be given to all the kids at the end of the play. 
 
 
 ![garnier students](/blog/assets/garnier_students.JPG)
 
-A launch party was organized with a special concept.
+A launch party was organized with a unique concept.
 
 Celebrities, influencer moms, and the press invited the party with their kids.
 
-Concept press and influencer kit was prepared.
+Concept press and influencer kits were prepared.
+
 
 
 ![garnier case study](/blog/assets/garnier_case_study.jpg)
 
 ### Results 
 
-Reached over 26,000 elementary school students in 6 months.
+We reached over 26,000 elementary school students in 6 months.
 
 Total Media Coverage: 581,816 TL
 

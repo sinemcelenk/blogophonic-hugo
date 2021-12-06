@@ -17,13 +17,13 @@ categories:
 layout: single
 ---
 
-Halkbank is a well-known Turkish Bank. The company wanted to create an advertising campaign to celebrate It's 80th years all around country at the same time. We modified the logo and created TV, Radio and print ads.
+Halkbank is a well-known Turkish Bank. The company wanted to create an advertising campaign to celebrate its 80th year all around the country at the same time. We modified the logo and created TV, Radio, and print ads.
 
 ---
 
 ### The Idea
 
-HalkBank  was celebreting its 80th years in the banking industry. The brand team wanted to create a big volume at the same time in Turkey's all of 81 cities. Our main goal was to build a campaign that speaks to emotions and shows Halbank's 80 years of relationship with its clients. The strategy was built to support brand image. 
+Halkbank was celebrating its 80th year in the banking industry. The brand team wanted to create a huge volume at the same time in Turkey's 81 cities. Our main goal was to build a campaign that speaks to emotions and shows Halbank's 80 years of relationship with its clients. The strategy was built to support the brand image. 
 
 *— [Click here to watch the TVC](https://youtu.be/0zP8lFqNvtY)*
 
