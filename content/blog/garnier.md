@@ -6,7 +6,7 @@ date: 2021-11-06
 author: "Sinem Celenk"
 draft: false
 images:
-  - /blog/assets/garnier_tumbnail.png
+  - /blog/assets/garnier1.jpg
 series:
   - Getting Started
 tags:

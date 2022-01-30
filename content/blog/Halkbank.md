@@ -6,7 +6,7 @@ date: 2021-11-03
 author: "Sinem Celenk"
 draft: false
 images:
-  - /blog/assets/halkbank_tumbnail.png
+  - /blog/assets/halkbank1.jpg
 series:
   - Getting Started
 tags:

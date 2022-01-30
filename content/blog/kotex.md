@@ -6,7 +6,7 @@ date: 2021-11-05
 author: "Sinem Celenk"
 draft: false
 images:
-  - /blog/assets/kotex_tumbnail.jpg
+  - /blog/assets/kotex1.jpg
 series:
   - Getting Started
 tags:

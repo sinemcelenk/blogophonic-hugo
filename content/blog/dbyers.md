@@ -6,7 +6,7 @@ date: 2022-01-02
 author: "Sinem Celenk"
 draft: false
 images:
-  - /blog/assets/dbyers.jpg
+  - /blog/assets/dbyers1.jpg
 series:
   - Getting Started
 tags:
