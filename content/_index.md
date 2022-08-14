@@ -1,7 +1,7 @@
 ---
 title: "Sinem Celenk"
-subtitle: "Marketing Professional"
-description: "Hi, I am Sinem. Welcome to my space on the internet! I am a creative marketer with over 5 years of experience in the industry. I've been doing market research, generating marketing strategies, managing campaigns both online and offline, creating launch events, and reporting. I am enthusiastic about working with new brands. Feel free to contact me for any inquires."
+subtitle: "Full Stack Marketer"
+description: "Hi, I am Sinem. Welcome to my space on the internet! I am a creative marketer with over 5 years of experience in the industry. I love conducting market research, generating marketing strategies, managing campaigns both digital and offline. I am enthusiastic about UX Research & Design. Feel free to contact me for any inquiries."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/bu iyi.PNG
