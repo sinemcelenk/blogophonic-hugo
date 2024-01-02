@@ -9,10 +9,19 @@
       <div class="mh5-l w-50-l">
         {{ with .Params.title }}<h1 class="f2 f1-m f-subheadline-l fw5-ns mv4 lh-solid tracked-tight">{{ . }}</h1>{{ end }}
         {{ with .Params.subtitle }}<h2 class="f12 fw7 measure mv0 ttu tracked">{{ . }}</h2>{{ end }}
-        {{ with .Params.description }}<p class="f4 measure mv4 lh-copy black-50">{{ . | markdownify }}</p>{{ end }}
+        <p class="f4 measure mv4 lh-copy black-50">
+          Hi, I'm Sinem. Welcome to my space on the internet! With over seven years of experience in marketing and an MBA degree, I am here to assist you in navigating the competitive landscape. 
+        </p>
+        <p class="f4 measure mv4 lh-copy black-50">
+          I understand the challenges faced by startups and small businesses, and I offer practical guidance tailored specifically for startups, covering everything from building your brand to running targeted campaigns. I'll provide insights and develop marketing strategies to help your business succeed. 
+        </p>
+        <p class="f4 measure mv4 lh-copy black-50">
+          <a href="https://sinem.space/contact/">Connect</a> with me today to elevate your marketing efforts to the next level.
+        </p>
+
 
        <div class="flex">
-        {{ if .Params.resume }}<a class="action text mr4" href="{{ .Params.resume }}" target="_blank">resume</a>{{ end }}
+        {{ if .Params.resume }}<a class="action text mr4" href="https://www.linkedin.com/in/sinemcelenk/" target="_blank">resume</a>{{ end }}
         {{ if .Params.portfolio }}<a class="action text mr4" href="{{ .Params.portfolio }}">portfolio</a>{{ end }}
         <!-- {{ if .Params.blog}}<a class="action text mr4" href="{{ .Params.blog }}" target="_blank">blog</a>{{ end }} -->
         {{ if .Params.show_action_link }}<a class="action mr4 {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
@@ -22,6 +31,7 @@
       {{ with .Params.images }}
         {{ range first 1 . }}<img class="mv0 w-70-m" src="{{ . }}"/>{{ end }}
       {{ end }}
+
       </div>
     </div>
   </section>

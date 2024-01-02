@@ -17,6 +17,8 @@ layout: single
 ---
 Garnier is a cosmetics brand of French cosmetic company L’oreal Paris. The company has four product categories: hair color, haircare, skincare, and suncare. They came with the idea of creating awareness about skin cancer, which is a rising health problem all around the world. We decided to generate and execute a corporate social responsibility campaign that reaches the right target group and raises awareness about UV Radiation and sun exposure.
 
+
+
 ---
 ![garnier played](/blog/assets/garnier_played.JPG)
 
